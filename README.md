@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaustubhiAgrawal
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning Data structures and java programming
+- 🌱 I’m currently learning full stack development and data structures
 - 💞️ I’m looking to collaborate on web development projects
 
 <!---
